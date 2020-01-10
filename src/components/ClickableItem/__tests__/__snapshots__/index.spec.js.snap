@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ClickableItem should render 1`] = `
+<Box
+  align="center"
+  direction="row-responsive"
+  gap="medium"
+  justify="center"
+  pad="xlarge"
+>
+  <Box
+    align="center"
+    background={
+      Object {
+        "color": "brand",
+        "opacity": "strong",
+      }
+    }
+    gap="small"
+    onClick={[Function]}
+    pad="large"
+    round={true}
+  >
+    <BarChart
+      size="large"
+    />
+    <Text
+      color="light-2"
+      level={1}
+    >
+      test
+    </Text>
+  </Box>
+</Box>
+`;
