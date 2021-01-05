@@ -17,7 +17,7 @@
     "@babel/runtime": "^7.7.7",
     "@zup-next/redux-action-cache": "^0.5.1",
     "@zup-next/redux-resource": "^1.0.0",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "grommet": "^2.9.0",
     "grommet-icons": "^4.4.0",
     "grommet-theme-hpe": "^0.4.2",
